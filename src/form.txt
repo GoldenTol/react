@@ -1,0 +1,17 @@
+import './../App.css';
+import {useState} from 'react';
+
+function App(){
+	console.log('\n');
+	
+	return(
+		<div>
+			<h2>(๑˘ꇴ˘๑) ଘ(੭ˊ꒳ˋ)੭✧</h2>
+			<h2>(~˙∇˙)~📣 방가방가~~ ✧*˳٩(ˊᗜˋ*)و✧*˳</h2>
+			<br/>
+			<h2>npm start ᕦ( ᐛ )ᕡ</h2>
+		</div>
+	);
+}
+
+export default App;

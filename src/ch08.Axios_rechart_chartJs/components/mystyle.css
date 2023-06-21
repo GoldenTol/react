@@ -1,0 +1,10 @@
+Table, td, th {
+    border : 1px solid black;
+    border-collapse : collapse;
+  };
+th,td{
+    text-align:center;
+};
+td.number{
+    text-align:right;
+};
